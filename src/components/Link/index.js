@@ -1,5 +1,5 @@
 import NextLink from 'next/link';
-import { Text } from '../../theme/components' ;
+import { Text } from '../../theme/components';
 
 export default function Link({ children, href, ...props}) {
     return (
